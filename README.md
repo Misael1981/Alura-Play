@@ -18,10 +18,6 @@ principais, para celulares, tablets e desktops.</p>
   </div>
   <div>
     <h2>Link do Projeto</h2>
-    <p>[Clique e confira]( https://misael1981.github.io/portfolio-alura/)</p>
-  </div>
-  <div>
-    <h2>Link do Projeto</h2>
     <p>[Clique e confira](https://misael1981.github.io/Alura-Play/)</p>
   </div>
   
